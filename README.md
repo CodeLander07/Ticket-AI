@@ -1,4 +1,4 @@
-## WEVA-AI Support Desk (MERN)
+Support Desk (MERN)
 
 One-command run: `docker compose up`.
 
